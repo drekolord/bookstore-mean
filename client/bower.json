@@ -1,0 +1,24 @@
+{
+  "name": "client",
+  "homepage": "http://github.com/drekolord",
+  "authors": [
+    "VaraPrasad.Pepakayala <vara@rightavenue.co.in>"
+  ],
+  "description": "Client / Public files for the Bookstore application.",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-route": "~1.4.7",
+    "bootstrap": "~3.3.5",
+    "angular": "1.4.7",
+    "jquery": "2.1.4"
+  }
+}
