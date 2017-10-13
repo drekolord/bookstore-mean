@@ -11,6 +11,7 @@
   	"body-parser":"*",
   	"mongoose":"*"
   },
+  "repository": "https://github.com/drekolord/bookstore-mean",
   "author": "",
-  "license": ""
+  "license": "MIT"
 }
