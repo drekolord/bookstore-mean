@@ -10,7 +10,7 @@ app.use(bodyParser.json());
 Book =require('./models/book');
 
 // Connect to Mongoose
-mongoose.connect('mongodb://localhost/bookstore');
+mongoose.connect('mongodb://admin:adminpass@ds157528.mlab.com:57528/bookstore');
 var db = mongoose.connection;
 
 
